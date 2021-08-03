@@ -1,4 +1,5 @@
 # name: FreeRDP
+name: FreeRDP
 
 on: workflow_dispatch
 
